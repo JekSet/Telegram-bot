@@ -1,5 +1,6 @@
 import random
-
+GV;O'IJBVPODFJBP'ODFIJBP'DOSIV
+P'XCOIYBHVO[SCIV
 import telebot
 
 token = " "  #your token
