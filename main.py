@@ -1,4 +1,5 @@
 import random
+#SDLGK';OAKF[PDPOIGKP]LEIUJGFLDO;BKDFK
 
 import telebot
 
